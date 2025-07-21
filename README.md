@@ -63,12 +63,19 @@ Your task is to create a **CSV Upload and Data Management System** that demonstr
 
 ### How to Submit Your Work
 
-**Fork this repository** to your own GitHub account to get started. This allows you to:
-- Work independently on your solution
-- Commit your progress as you build features
-- Share your completed work by sending us the link to your forked repository
+**Clone this repository** to get started:
 
-Once you've forked the repo, clone it locally and follow the setup instructions below.
+```bash
+git clone https://github.com/promptwatch-com/promptwatch-assignment
+cd promptwatch-assignment
+```
+
+This allows you to:
+- Work on your solution locally
+- Commit your progress as you build features
+- Share your completed work by creating a zip file or new repository
+
+Follow the setup instructions below to get your development environment running.
 
 ## 🏗️ Architecture Overview
 
