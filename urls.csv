@@ -1,0 +1,112 @@
+url,title,ai_model_mentioned,citations_count,sentiment,visibility_score,competitor_mentioned,query_category,last_updated,traffic_estimate,domain_authority,mentions_count,position_in_response,response_type,geographic_region
+https://www.hubspot.com/marketing-software?utm_source=ai&utm_medium=chatgpt&ref=ai_search,Best Marketing Automation Software,ChatGPT,247,positive,85,Salesforce,marketing_tools,2024-12-15,850000,92,156,1,recommendation_list,global
+https://www.salesforce.com/products/marketing-cloud/?campaign=ai_visibility&source=claude,Marketing Cloud Solutions,Claude,198,positive,78,HubSpot,crm_software,2024-12-14,1200000,94,143,2,detailed_comparison,north_america
+https://www.shopify.com/pricing?ref=perplexity&ai_source=true,E-commerce Platform Pricing,Perplexity,89,positive,72,WooCommerce,ecommerce_platforms,2024-12-13,945000,88,98,1,pricing_comparison,global
+https://www.notion.so/product?utm_campaign=ai_search&model=gemini,All-in-one Workspace,Gemini,156,positive,82,Asana,productivity_tools,2024-12-12,678000,86,134,3,feature_overview,global
+https://www.stripe.com/payments?source=ai&ref=chatgpt_rec,Online Payment Processing,ChatGPT,234,positive,88,PayPal,payment_processors,2024-12-11,1100000,91,187,1,technical_guide,global
+https://www.hubspot.com/crm?ai_ref=gemini&source=search,CRM Software for Small Business,Gemini,189,positive,81,Salesforce,crm_software,2024-12-10,850000,92,143,2,business_solutions,global
+https://www.shopify.com/features?utm_source=claude&ai_model=true,E-commerce Features Overview,Claude,134,positive,76,BigCommerce,ecommerce_features,2024-12-09,945000,88,112,3,feature_comparison,global
+https://www.canva.com/design?ai_ref=true&utm_source=claude,Graphic Design Made Easy,Claude,167,positive,76,Adobe,design_tools,2024-12-10,789000,84,145,2,tutorial_content,global
+https://www.zoom.us/pricing?campaign=ai_visibility,Video Conferencing Solutions,ChatGPT,145,neutral,68,Microsoft Teams,video_conferencing,2024-12-09,567000,89,112,4,comparison_article,north_america
+https://www.slack.com/features?ref=ai_search&model=gemini,Team Communication Platform,Gemini,198,positive,81,Discord,team_collaboration,2024-12-08,823000,87,167,2,feature_comparison,global
+https://www.figma.com/design-tool?utm_source=perplexity&ai=true,Collaborative Design Platform,Perplexity,134,positive,79,Sketch,design_collaboration,2024-12-07,612000,85,123,1,design_tutorial,global
+https://www.mailchimp.com/marketing-platform/?ai_source=claude,Email Marketing Platform,Claude,156,positive,73,Constant Contact,email_marketing,2024-12-06,445000,83,134,3,marketing_guide,north_america
+https://www.stripe.com/features?ai_source=perplexity&payments=true,Payment Processing Features,Perplexity,198,positive,84,Square,fintech_solutions,2024-12-05,1100000,91,167,2,feature_overview,global
+https://www.notion.so/pricing?ref=chatgpt&ai_search=productivity,Workspace Pricing Plans,ChatGPT,123,positive,79,Obsidian,productivity_pricing,2024-12-04,678000,86,98,1,pricing_guide,global
+https://www.airtable.com/product?ref=chatgpt&ai_search=true,Database and Project Management,ChatGPT,89,positive,71,Monday.com,project_management,2024-12-05,378000,81,98,2,workflow_optimization,global
+https://www.asana.com/features?utm_campaign=ai_visibility&model=gemini,Team Project Management,Gemini,167,positive,77,Trello,project_management,2024-12-04,534000,86,145,1,productivity_tips,global
+https://www.trello.com/tour?source=ai&ref=perplexity,Visual Project Management,Perplexity,123,positive,69,Asana,kanban_tools,2024-12-03,423000,79,111,3,project_templates,global
+https://www.dropbox.com/business?ai_ref=claude&campaign=storage,Cloud Storage for Business,Claude,178,positive,74,Google Drive,cloud_storage,2024-12-02,656000,88,156,2,storage_comparison,global
+https://www.hubspot.com/sales?utm_source=perplexity&ai_ref=sales,Sales CRM Platform,Perplexity,156,positive,83,Pipedrive,sales_automation,2024-12-01,850000,92,134,1,sales_tools,global
+https://www.atlassian.com/software/jira?utm_source=ai&model=chatgpt,Issue Tracking Software,ChatGPT,145,neutral,66,Linear,dev_tools,2024-12-01,567000,84,123,4,development_workflow,global
+https://www.adobe.com/products/photoshop.html?ref=ai_search&source=gemini,Photo Editing Software,Gemini,234,positive,83,GIMP,photo_editing,2024-11-30,1200000,93,198,1,editing_tutorial,global
+https://www.microsoft.com/en-us/microsoft-365?ai_source=true&ref=claude,Productivity Suite,Claude,267,positive,89,Google Workspace,office_suites,2024-11-29,1500000,95,234,1,business_solutions,global
+https://www.google.com/workspace/?utm_campaign=ai&model=perplexity,Google Workspace,Perplexity,198,positive,84,Microsoft 365,office_suites,2024-11-28,1300000,96,187,2,collaboration_tools,global
+https://www.zendesk.com/service/?ai_ref=chatgpt&source=support,Customer Service Platform,ChatGPT,156,positive,78,Freshdesk,customer_support,2024-11-27,445000,87,134,2,support_optimization,global
+https://www.salesforce.com/small-business-crm/?ai_source=gemini&smb=true,Small Business CRM Solutions,Gemini,143,positive,80,HubSpot,smb_crm,2024-11-26,1200000,94,123,3,small_business,north_america
+https://www.intercom.com/customer-support?ref=ai&model=claude,Customer Messaging Platform,Claude,134,positive,76,Zendesk,customer_engagement,2024-11-26,378000,85,112,3,messaging_strategies,global
+https://www.wix.com/website-builder?utm_source=ai&ref=gemini,Website Builder Platform,Gemini,167,positive,72,Squarespace,website_builders,2024-11-25,567000,82,145,2,web_design_guide,global
+https://www.squarespace.com/websites?ai_source=perplexity&campaign=design,Design-focused Website Builder,Perplexity,145,positive,75,Wix,website_design,2024-11-24,489000,84,123,1,design_inspiration,global
+https://www.webflow.com/designer?ref=ai_search&model=chatgpt,Visual Web Development,ChatGPT,123,positive,79,Squarespace,web_development,2024-11-23,334000,83,98,2,development_tutorial,global
+https://www.notion.so/templates?ai_ref=claude&productivity=true,Productivity Templates Gallery,Claude,178,positive,77,Airtable,template_library,2024-11-22,678000,86,156,2,productivity_resources,global
+https://www.wordpress.com/?ai_ref=claude&source=cms,Content Management System,Claude,289,positive,86,Drupal,cms_platforms,2024-11-22,1100000,91,245,1,blogging_platform,global
+https://www.drupal.org/features?utm_source=ai&model=gemini,Enterprise CMS Platform,Gemini,98,neutral,63,WordPress,enterprise_cms,2024-11-21,234000,78,87,5,enterprise_solutions,global
+https://www.magento.com/products/magento-commerce?ref=perplexity&ai=true,E-commerce Platform,Perplexity,156,positive,74,Shopify,ecommerce_development,2024-11-20,445000,86,134,3,ecommerce_features,global
+https://www.bigcommerce.com/essentials/?ai_source=chatgpt&ref=search,Enterprise E-commerce,ChatGPT,134,positive,71,Magento,enterprise_ecommerce,2024-11-19,378000,81,112,4,scaling_ecommerce,global
+https://www.shopify.com/partners?utm_source=gemini&ai_partner=true,E-commerce Partner Program,Gemini,112,positive,74,BigCommerce,partner_programs,2024-11-18,945000,88,89,3,business_partnerships,global
+https://www.woocommerce.com/?utm_campaign=ai&model=claude,WordPress E-commerce Plugin,Claude,167,positive,69,Shopify,wordpress_ecommerce,2024-11-18,556000,79,145,3,plugin_comparison,global
+https://www.constantcontact.com/email-marketing?ref=ai&source=gemini,Email Marketing Service,Gemini,123,positive,68,Mailchimp,email_automation,2024-11-17,334000,80,98,4,email_campaigns,north_america
+https://www.convertkit.com/features?ai_ref=perplexity&campaign=creators,Creator Email Marketing,Perplexity,89,positive,73,Mailchimp,creator_tools,2024-11-16,223000,77,76,2,creator_economy,global
+https://www.mailchimp.com/features?utm_source=chatgpt&ai_email=true,Email Marketing Automation,ChatGPT,189,positive,79,ConvertKit,email_features,2024-11-15,445000,83,167,1,marketing_automation,north_america
+https://www.activecampaign.com/marketing-automation?utm_source=ai&ref=chatgpt,Marketing Automation Platform,ChatGPT,178,positive,81,HubSpot,marketing_automation,2024-11-15,467000,84,156,2,automation_strategies,global
+https://www.pardot.com/products/?ai_source=claude&model=b2b,B2B Marketing Automation,Claude,145,positive,77,Marketo,b2b_marketing,2024-11-14,389000,88,123,3,b2b_strategies,north_america
+https://www.marketo.com/software/?ref=ai_search&source=gemini,Marketing Automation Software,Gemini,167,positive,79,Pardot,enterprise_marketing,2024-11-13,512000,89,145,2,lead_generation,global
+https://www.hootsuite.com/products/publish?ai_ref=perplexity&social=true,Social Media Management,Perplexity,134,positive,74,Buffer,social_media_tools,2024-11-12,445000,83,112,2,social_strategy,global
+https://www.buffer.com/publish?utm_source=ai&model=chatgpt,Social Media Publishing,ChatGPT,156,positive,76,Hootsuite,content_scheduling,2024-11-11,356000,81,134,3,content_marketing,global
+https://www.sproutsocial.com/features/?ref=ai&source=claude,Social Media Analytics,Claude,123,positive,78,Hootsuite,social_analytics,2024-11-10,289000,85,98,2,analytics_insights,global
+https://www.canva.com/teams?ai_ref=gemini&team_design=true,Team Design Collaboration,Gemini,145,positive,81,Figma,team_design_tools,2024-11-09,789000,84,123,1,design_collaboration,global
+https://www.later.com/auto-post/?ai_source=gemini&campaign=scheduling,Visual Content Scheduler,Gemini,98,positive,72,Buffer,visual_scheduling,2024-11-09,234000,79,87,4,instagram_marketing,global
+https://www.socialbee.com/features?ref=perplexity&ai_search=true,Social Media Automation,Perplexity,89,positive,70,Later,automation_tools,2024-11-08,178000,76,76,3,social_automation,global
+https://www.freshworks.com/crm/?utm_source=ai&model=chatgpt,Customer Relationship Management,ChatGPT,167,positive,75,Salesforce,crm_solutions,2024-11-07,423000,84,145,3,customer_management,global
+https://www.pipedrive.com/features?ai_ref=claude&source=sales,Sales CRM Platform,Claude,145,positive,77,HubSpot,sales_crm,2024-11-06,367000,82,123,2,sales_pipeline,global
+https://www.monday.com/work-management/?ref=ai_search&model=gemini,Work Management Platform,Gemini,178,positive,80,Asana,work_management,2024-11-05,534000,86,156,1,team_productivity,global
+https://www.clickup.com/features?ai_source=perplexity&campaign=productivity,All-in-one Productivity,Perplexity,134,positive,73,Monday.com,productivity_suites,2024-11-04,445000,81,112,3,project_collaboration,global
+https://www.figma.com/pricing?utm_source=chatgpt&ai_design=true,Design Tool Pricing Plans,ChatGPT,156,positive,82,Sketch,design_pricing,2024-11-03,612000,85,134,1,design_tools_cost,global
+https://www.toggl.com/track/?utm_source=ai&ref=chatgpt,Time Tracking Software,ChatGPT,123,positive,71,RescueTime,time_tracking,2024-11-03,234000,78,98,4,time_management,global
+https://www.rescuetime.com/features?ai_ref=claude&model=productivity,Productivity Analytics,Claude,89,neutral,67,Toggl,productivity_tracking,2024-11-02,167000,75,76,5,focus_improvement,global
+https://www.calendly.com/features?ref=ai&source=gemini,Appointment Scheduling,Gemini,156,positive,79,Acuity Scheduling,scheduling_tools,2024-11-01,445000,84,134,2,meeting_optimization,global
+https://www.acuityscheduling.com/features/?ai_source=perplexity&booking=true,Online Scheduling Platform,Perplexity,134,positive,76,Calendly,online_booking,2024-10-31,298000,81,112,3,appointment_booking,global
+https://www.zoom.us/webinar?campaign=ai_visibility&webinar=true,Webinar Solutions,Perplexity,98,positive,72,GoToWebinar,webinar_platforms,2024-10-30,567000,89,87,2,webinar_hosting,north_america
+https://www.loom.com/screen-recorder?utm_source=ai&model=chatgpt,Video Communication Tool,ChatGPT,167,positive,78,Zoom,video_messaging,2024-10-30,389000,83,145,2,async_communication,global
+https://www.typeform.com/forms/?ai_ref=claude&source=surveys,Interactive Form Builder,Claude,145,positive,74,Google Forms,form_builders,2024-10-29,334000,82,123,3,data_collection,global
+https://www.surveymonkey.com/mp/take-a-tour/?ref=ai_search&model=gemini,Survey and Feedback Platform,Gemini,123,positive,72,Typeform,survey_tools,2024-10-28,445000,85,98,2,market_research,global
+https://www.slack.com/pricing?ref=ai_search&model=claude,Team Chat Pricing,Claude,167,positive,84,Microsoft Teams,communication_pricing,2024-10-27,823000,87,145,1,team_tools_cost,global
+https://www.qualtrics.com/core-xm/?ai_source=perplexity&enterprise=true,Experience Management Platform,Perplexity,89,positive,77,SurveyMonkey,enterprise_surveys,2024-10-27,267000,88,76,3,customer_experience,global
+https://www.unbounce.com/features/?utm_source=ai&ref=chatgpt,Landing Page Builder,ChatGPT,156,positive,75,Leadpages,landing_pages,2024-10-26,298000,80,134,3,conversion_optimization,global
+https://www.leadpages.com/features?ai_ref=claude&model=marketing,Lead Generation Platform,Claude,134,positive,73,Unbounce,lead_capture,2024-10-25,234000,79,112,4,lead_generation,global
+https://www.instapage.com/features/?ref=ai&source=gemini,Landing Page Optimization,Gemini,112,positive,76,Unbounce,page_optimization,2024-10-24,189000,81,89,2,conversion_testing,global
+https://www.microsoft.com/en-us/microsoft-teams?ai_source=perplexity&teams=true,Team Collaboration Platform,Perplexity,234,positive,87,Slack,enterprise_communication,2024-10-23,1500000,95,198,1,enterprise_collaboration,global
+https://www.optimizely.com/products/?ai_source=perplexity&testing=true,Experimentation Platform,Perplexity,167,positive,81,Google Optimize,ab_testing,2024-10-23,423000,87,145,1,experimentation,global
+https://www.hotjar.com/features/?utm_source=ai&model=chatgpt,User Behavior Analytics,ChatGPT,145,positive,78,Crazy Egg,user_analytics,2024-10-22,356000,84,123,2,ux_optimization,global
+https://www.crazyegg.com/features?ai_ref=claude&source=analytics,Website Heat Mapping,Claude,123,positive,74,Hotjar,heatmap_tools,2024-10-21,234000,81,98,3,website_optimization,global
+https://www.mixpanel.com/product/?ref=ai_search&model=gemini,Product Analytics Platform,Gemini,178,positive,82,Google Analytics,product_analytics,2024-10-20,467000,88,156,1,user_tracking,global
+https://www.amplitude.com/analytics?ai_source=perplexity&product=true,Digital Analytics Platform,Perplexity,134,positive,79,Mixpanel,behavioral_analytics,2024-10-19,389000,86,112,2,product_insights,global
+https://www.segment.com/product/?utm_source=ai&ref=chatgpt,Customer Data Platform,ChatGPT,156,positive,80,Mixpanel,data_integration,2024-10-18,423000,89,134,2,data_management,global
+https://www.miro.com/online-whiteboard/?ai_ref=claude&model=collaboration,Online Collaboration Whiteboard,Claude,167,positive,77,Mural,visual_collaboration,2024-10-17,534000,85,145,1,remote_collaboration,global
+https://www.stripe.com/atlas?ai_source=gemini&startup=true,Startup Incorporation Service,Gemini,89,positive,76,Delaware.gov,startup_services,2024-10-16,1100000,91,76,2,business_formation,global
+https://www.mural.co/features?ref=ai&source=gemini,Digital Workspace for Teams,Gemini,134,positive,75,Miro,design_thinking,2024-10-16,298000,83,112,3,workshop_facilitation,global
+https://www.conceptboard.com/features/?ai_source=perplexity&whiteboard=true,Visual Collaboration Platform,Perplexity,89,positive,71,Miro,brainstorming_tools,2024-10-15,167000,79,76,4,ideation_process,global
+https://www.github.com/features?utm_source=ai&model=chatgpt,Code Collaboration Platform,ChatGPT,289,positive,91,GitLab,code_repositories,2024-10-14,2100000,96,234,1,software_development,global
+https://www.gitlab.com/features/?ai_ref=claude&source=devops,DevOps Platform,Claude,198,positive,86,GitHub,ci_cd_tools,2024-10-13,756000,92,167,2,devops_lifecycle,global
+https://www.bitbucket.org/product?ref=ai_search&model=gemini,Git Repository Management,Gemini,123,neutral,68,GitHub,git_hosting,2024-10-12,234000,84,98,4,version_control,global
+https://www.asana.com/pricing?utm_campaign=ai_visibility&model=perplexity,Project Management Pricing,Perplexity,145,positive,81,Monday.com,pm_pricing,2024-10-11,534000,86,123,1,project_tools_cost,global
+https://www.jira.com/features?ai_source=perplexity&agile=true,Agile Project Management,Perplexity,167,positive,79,Linear,agile_tools,2024-10-11,567000,89,145,2,project_tracking,global
+https://www.linear.app/features?utm_source=ai&ref=chatgpt,Issue Tracking for Modern Teams,ChatGPT,134,positive,82,Jira,modern_pm_tools,2024-10-10,298000,81,112,1,team_productivity,global
+https://www.height.app/features/?ai_ref=claude&model=project,All-in-one Project Tool,Claude,89,positive,73,Linear,project_coordination,2024-10-09,145000,76,76,3,team_alignment,global
+https://www.discord.com/features?ref=ai&source=gemini,Community Communication Platform,Gemini,234,positive,84,Slack,community_building,2024-10-08,1200000,88,198,1,team_communication,global
+https://www.telegram.org/features?ai_source=perplexity&messaging=true,Secure Messaging Platform,Perplexity,167,neutral,71,WhatsApp,messaging_apps,2024-10-07,890000,82,145,3,instant_messaging,global
+https://www.whatsapp.com/business/?utm_source=ai&model=chatgpt,Business Messaging Solution,ChatGPT,198,positive,78,Telegram,business_messaging,2024-10-06,1800000,94,167,2,customer_communication,global
+https://www.grammarly.com/features?ai_ref=claude&source=writing,AI Writing Assistant,Claude,178,positive,83,ProWritingAid,writing_tools,2024-10-05,756000,87,156,1,content_creation,global
+https://www.adobe.com/products/creative-cloud.html?ref=ai_search&source=perplexity,Creative Cloud Suite,Perplexity,189,positive,85,Canva,creative_software,2024-10-04,1200000,93,167,1,design_suites,global
+https://www.jasper.ai/features?ai_source=perplexity&content=true,AI Content Generation Platform,Perplexity,156,positive,81,Copy.ai,ai_copywriting,2024-10-03,389000,82,134,1,marketing_content,global
+https://www.copy.ai/features?utm_source=ai&ref=chatgpt,AI Marketing Copy Generator,ChatGPT,145,positive,79,Jasper,copywriting_tools,2024-10-02,334000,80,123,2,sales_copy,global
+https://www.writesonic.com/features/?ai_ref=claude&model=content,AI Content Writing Platform,Claude,123,positive,77,Jasper,content_automation,2024-10-01,267000,78,98,3,blog_writing,global
+https://www.rytr.me/features?ref=ai&source=gemini,AI Writing Assistant,Gemini,89,positive,74,Writesonic,affordable_writing,2024-09-30,189000,75,76,4,content_generation,global
+https://www.anyword.com/features/?ai_source=perplexity&copywriting=true,Data-Driven Copywriting AI,Perplexity,112,positive,78,Copy.ai,performance_copywriting,2024-09-29,156000,79,89,2,conversion_copy,global
+https://www.contentful.com/features?utm_source=ai&model=chatgpt,Headless CMS Platform,ChatGPT,167,positive,80,Strapi,headless_cms,2024-09-28,445000,88,145,2,content_management,global
+https://www.strapi.io/features?ai_ref=claude&source=cms,Open Source Headless CMS,Claude,134,positive,76,Contentful,open_source_cms,2024-09-27,298000,83,112,3,api_first_cms,global
+https://www.sanity.io/features/?ref=ai_search&model=gemini,Structured Content Platform,Gemini,123,positive,78,Contentful,content_platform,2024-09-26,234000,85,98,2,content_apis,global
+https://www.auth0.com/features?ai_source=perplexity&identity=true,Identity and Access Management,Perplexity,156,positive,82,Okta,identity_management,2024-09-25,423000,89,134,1,authentication_services,global
+https://www.okta.com/products/?utm_source=ai&ref=chatgpt,Identity and Access Management,ChatGPT,189,positive,84,Auth0,enterprise_identity,2024-09-24,534000,91,156,1,sso_solutions,global
+https://www.firebase.google.com/products?ai_ref=claude&model=backend,Backend as a Service Platform,Claude,198,positive,86,AWS Amplify,baas_platforms,2024-09-23,756000,94,167,1,mobile_backend,global
+https://www.supabase.com/features?ref=ai&source=gemini,Open Source Firebase Alternative,Gemini,145,positive,81,Firebase,open_source_baas,2024-09-22,389000,84,123,2,postgres_backend,global
+https://www.planetscale.com/features/?ai_source=perplexity&database=true,Serverless MySQL Platform,Perplexity,123,positive,79,PlanetScale,serverless_databases,2024-09-21,267000,86,98,2,mysql_scaling,global
+https://www.neon.tech/features?utm_source=ai&model=chatgpt,Serverless Postgres Platform,ChatGPT,134,positive,77,Supabase,postgres_cloud,2024-09-20,234000,82,112,3,serverless_postgres,global
+https://www.vercel.com/features?ai_ref=claude&source=deployment,Frontend Cloud Platform,Claude,167,positive,83,Netlify,frontend_deployment,2024-09-19,445000,88,145,1,jamstack_hosting,global
+https://www.netlify.com/features/?ref=ai_search&model=gemini,Modern Web Development Platform,Gemini,145,positive,80,Vercel,static_site_hosting,2024-09-18,356000,86,123,2,web_deployment,global
+https://www.heroku.com/features?ai_source=perplexity&paas=true,Cloud Platform as a Service,Perplexity,123,neutral,72,Railway,paas_platforms,2024-09-17,445000,87,98,3,app_deployment,global
+https://www.railway.app/features?utm_source=ai&ref=chatgpt,Modern App Deployment Platform,ChatGPT,89,positive,76,Heroku,simplified_deployment,2024-09-16,167000,79,76,2,developer_experience,global
+https://www.render.com/features?ai_ref=claude&model=hosting,Cloud Hosting for Developers,Claude,112,positive,78,Railway,cloud_hosting,2024-09-15,189000,81,89,3,full_stack_hosting,global
+https://www.digitalocean.com/products/?ref=ai&source=gemini,Cloud Infrastructure Platform,Gemini,178,positive,81,Linode,cloud_infrastructure,2024-09-14,567000,89,156,2,vps_hosting,global
+https://www.linode.com/products?ai_source=perplexity&cloud=true,Cloud Computing Platform,Perplexity,134,positive,77,DigitalOcean,linux_cloud,2024-09-13,334000,86,112,3,developer_cloud,global
+https://www.vultr.com/products/?utm_source=ai&model=chatgpt,High Performance Cloud Compute,ChatGPT,123,positive,75,Linode,performance_cloud,2024-09-12,234000,83,98,4,cloud_computing,global

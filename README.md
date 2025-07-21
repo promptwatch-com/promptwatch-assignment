@@ -1,6 +1,74 @@
 # Frontend & Full-Stack Developer Assignment
 
-This repository serves as a technical assignment for frontend and full-stack developer candidates. It provides a modern, production-ready monorepo foundation that you can build upon to demonstrate your skills.
+This repository serves as a technical assignment for frontend and full-stack developer candidates at [Promptwatch](https://promptwatch.com/). It provides a modern, production-ready monorepo foundation that you can build upon to demonstrate your skills.
+
+**About Promptwatch**: Promptwatch helps companies monitor and optimize their brand visibility across AI search engines like ChatGPT, Claude, Perplexity, and other AI platforms. We're building the future of AI search optimization.
+
+## 📋 Assignment Instructions
+
+### What You Need to Build
+
+Your task is to create a **CSV Upload and Data Management System** that demonstrates your full-stack development skills. This assignment simulates real-world functionality similar to what we build at Promptwatch.
+
+### Core Requirements
+
+**1. CSV File Upload Interface**
+- Create a file upload component that accepts CSV files (`urls.csv`)
+- Include proper file validation (file type, size limits, etc.)
+- Show upload progress and success/error states (optional)
+
+**2. Backend API Integration**
+- Build a tRPC endpoint to handle CSV content
+- Store the parsed data in the PostgreSQL database using Prisma
+- Create a database schema for storing the data
+
+**3. Data Display & Management**
+- Display uploaded CSV data in a well-designed table on the main page
+- Include features like pagination, sorting, or filtering
+- Group by domain, show a little chart of occurences per website
+- Create a line chart based on `last_updated`
+
+### Technical Specifications
+
+- **Frontend**: Use the existing Next.js setup with React and TypeScript
+- **Backend**: Extend the tRPC API with new endpoints for file handling
+- **Database**: Design appropriate Prisma models for storing CSV data
+- **UI/UX**: Make it look professional - add your preferred styling solution
+
+### What We're Evaluating
+
+✅ **Code Quality**: Clean, readable, well-structured TypeScript code  
+✅ **Full-Stack Integration**: Seamless frontend-backend communication via tRPC  
+✅ **Database Design**: Thoughtful Prisma schema and data modeling  
+✅ **User Experience**: Intuitive interface with proper loading states and error handling  
+✅ **Error Handling**: Robust error management throughout the application  
+✅ **Creativity**: Your choice of styling, additional features, and problem-solving approach  
+
+### Bonus Points
+
+- Add data validation and sanitization
+- Implement real-time upload progress
+- Include data export functionality
+- Write basic tests
+
+### Getting Started
+
+1. Follow the setup instructions below to get the development environment running
+2. Explore the existing codebase to understand the tRPC and Prisma setup
+3. Design your database schema for storing CSV data
+4. Build the upload functionality step by step
+5. Create a great user interface to showcase your work
+
+**Time Expectation**: This assignment typically takes 4-8 hours depending on your experience level and how much you want to polish it.
+
+### How to Submit Your Work
+
+**Fork this repository** to your own GitHub account to get started. This allows you to:
+- Work independently on your solution
+- Commit your progress as you build features
+- Share your completed work by sending us the link to your forked repository
+
+Once you've forked the repo, clone it locally and follow the setup instructions below.
 
 ## 🏗️ Architecture Overview
 
