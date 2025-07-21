@@ -1,0 +1,8 @@
+{
+    "name": "@repo/docker-compose",
+    "version": "0.0.0",
+    "scripts": {
+        "dev": "docker compose up --wait && echo 'Docker services are ready'",
+        "stop": "docker-compose down"
+    }
+}
